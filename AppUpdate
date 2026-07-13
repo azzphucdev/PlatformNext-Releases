@@ -1,0 +1,213 @@
+{
+  "manifest_version": 1,
+  "updated_at": "03:35 07/14/2026 UTC+7",
+  "platforms": {
+    "ios": {
+      "stable": {
+        "version": "1.1.2",
+        "build": 251,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- New spec-based update system\n- Stability fixes",
+          "vi": "- Hệ thống cập nhật mới theo chuẩn build\n- Sửa lỗi ổn định"
+        },
+        "store_url": "https://apps.apple.com/app/id6741474000",
+        "artifacts": [
+          {
+            "arch": "arm64",
+            "type": "testflight",
+            "url": "https://testflight.apple.com/join/c2cqrUur",
+            "size": "—"
+          }
+        ]
+      },
+      "beta": {
+        "version": "1.1.2",
+        "build": 253,
+        "notes": {
+          "en": "- fix xray, v2ray, mihomo\n- upgrade xray-core 26.7.11\n- added v2ray-core, Mihomo core\n- added Mode Custom\n- Stability fixes",
+          "vi": "- Sửa lỗi xray, v2ray, mihomo\n- Nâng cấp xray-core 26.7.11\n- Bổ sung v2ray-core, Mihomo core\n- Thêm chế độ tuỳ chỉnh\n- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "arm64",
+            "type": "testflight",
+            "url": "https://testflight.apple.com/join/c2cqrUur",
+            "size": "—"
+          }
+        ]
+      }
+    },
+    "android": {
+      "stable": {
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- New spec-based update system\n- Stability fixes",
+          "vi": "- Hệ thống cập nhật mới theo chuẩn build\n- Sửa lỗi ổn định"
+        },
+        "store_url": "https://play.google.com/store/apps/details?id=dev.platformnext.vpn",
+        "artifacts": [
+          {
+            "arch": "arm64-v8a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_arm64.apk",
+            "size": "50 MB"
+          },
+          {
+            "arch": "armeabi-v7a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_armeabi-v7a.apk",
+            "size": "50 MB"
+          },
+          {
+            "arch": "universal",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.apk",
+            "size": "82 MB"
+          }
+        ]
+      },
+      "beta": {
+        "version": "1.1.2",
+        "build": 255,
+        "artifacts": [
+          {
+            "arch": "arm64-v8a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B255/PlatformNext_arm64.apk",
+            "size": "60 MB"
+          },
+          {
+            "arch": "armeabi-v7a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B255/PlatformNext_armeabi-v7a.apk",
+            "size": "60 MB"
+          },
+          {
+            "arch": "universal",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B255/PlatformNext_universal.apk",
+            "size": "103 MB"
+          }
+        ],
+        "notes": {
+          "en": "- fix xray, v2ray, mihomo\n- upgrade xray-core 26.7.11\n- added v2ray-core, Mihomo core\n- added Mode Custom\n- Stability fixes",
+          "vi": "- Sửa lỗi xray, v2ray, mihomo\n- Nâng cấp xray-core 26.7.11\n- Bổ sung v2ray-core, Mihomo core\n- Thêm chế độ tuỳ chỉnh\n- Sửa lỗi ổn định"
+        }
+      }
+    },
+    "macos": {
+      "stable": {
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 249,
+        "warn_below_build": 248,
+        "blocked_builds": [
+          200
+        ],
+        "notes": {
+          "en": "- New spec-based update system\n- Stability fixes",
+          "vi": "- Hệ thống cập nhật mới theo chuẩn build\n- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "universal",
+            "type": "dmg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.dmg",
+            "size": "89 MB"
+          },
+          {
+            "arch": "universal",
+            "type": "pkg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.pkg",
+            "size": "90 MB"
+          }
+        ]
+      },
+      "beta": {
+        "version": "1.1.2",
+        "build": 255,
+        "artifacts": [
+          {
+            "arch": "universal",
+            "type": "dmg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B255/PlatformNext_universal.dmg",
+            "size": "117 MB"
+          },
+          {
+            "arch": "universal",
+            "type": "pkg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B255/PlatformNext_universal.pkg",
+            "size": "118 MB"
+          }
+        ],
+        "notes": {
+          "en": "- fix xray, v2ray, mihomo\n- upgrade xray-core 26.7.11\n- added v2ray-core, Mihomo core\n- added Mode Custom\n- Stability fixes",
+          "vi": "- Sửa lỗi xray, v2ray, mihomo\n- Nâng cấp xray-core 26.7.11\n- Bổ sung v2ray-core, Mihomo core\n- Thêm chế độ tuỳ chỉnh\n- Sửa lỗi ổn định"
+        }
+      }
+    },
+    "windows": {
+      "stable": {
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- New spec-based update system\n- Stability fixes",
+          "vi": "- Hệ thống cập nhật mới theo chuẩn build\n- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "x64",
+            "type": "exe",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.exe",
+            "size": "38 MB"
+          }
+        ]
+      },
+      "beta": {}
+    },
+    "linux": {
+      "stable": {
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- New spec-based update system\n- Stability fixes",
+          "vi": "- Hệ thống cập nhật mới theo chuẩn build\n- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "x64",
+            "type": "appimage",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.AppImage",
+            "size": "65 MB"
+          },
+          {
+            "arch": "x64",
+            "type": "deb",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.deb",
+            "size": "46 MB"
+          },
+          {
+            "arch": "x64",
+            "type": "rpm",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.rpm",
+            "size": "50 MB"
+          }
+        ]
+      },
+      "beta": {}
+    }
+  }
+}
