@@ -1,0 +1,235 @@
+{
+  "manifest_version": 1,
+  "update_at": 1786713379183,
+  "platforms": {
+    "ios": {
+      "stable": {
+        "updated_at": "22:03 5/7/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 251,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- Stability fixes",
+          "vi": "- Sửa lỗi ổn định"
+        },
+        "store_url": "https://apps.apple.com/app/id6741474000",
+        "artifacts": [
+          {
+            "arch": "arm64",
+            "type": "testflight",
+            "url": "https://testflight.apple.com/join/c2cqrUur",
+            "size": "—"
+          }
+        ]
+      },
+      "beta": {
+        "updated_at": "18:39 14/8/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 267,
+        "notes": {
+          "en": "- Optimize and improve the application !!",
+          "vi": "- Tối ưu và cải thiện ứng dụng !!"
+        },
+        "artifacts": [
+          {
+            "arch": "arm64",
+            "type": "testflight",
+            "url": "https://testflight.apple.com/join/c2cqrUur",
+            "size": "—"
+          }
+        ]
+      }
+    },
+    "android": {
+      "stable": {
+        "updated_at": "22:03 5/7/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- Stability fixes",
+          "vi": "- Sửa lỗi ổn định"
+        },
+        "store_url": "https://play.google.com/store/apps/details?id=dev.platformnext.vpn",
+        "artifacts": [
+          {
+            "arch": "arm64-v8a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_arm64.apk",
+            "size": "50 MB",
+            "sha256": "7021871f9dc1b6a99285d3566b21626cee20d50d1cba0f427f89cbec5b797c1e"
+          },
+          {
+            "arch": "armeabi-v7a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_armeabi-v7a.apk",
+            "size": "50 MB",
+            "sha256": "20145b8df661f9194de025901c53c00737580fc469d1619aae15baf637827429"
+          },
+          {
+            "arch": "universal",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.apk",
+            "size": "82 MB",
+            "sha256": "c8aa8439023ce50446a4fd56ccc60a84b287c3e62f20fa65557f59bb70053479"
+          }
+        ]
+      },
+      "beta": {
+        "updated_at": "18:39 14/8/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 271,
+        "artifacts": [
+          {
+            "arch": "arm64-v8a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B271/PlatformNext_arm64.apk",
+            "size": "62 MB",
+            "sha256": "6fc6f0e39cc68ed8b36e717e31a42c7f92b4b4a8e8b0760ab0273167319b9ea2"
+          },
+          {
+            "arch": "armeabi-v7a",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B271/PlatformNext_armeabi-v7a.apk",
+            "size": "63 MB",
+            "sha256": "0d260e3f3ff6577f0accb4d4395725003c5149778d89aac9b3c9891a63370889"
+          },
+          {
+            "arch": "universal",
+            "type": "apk",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B271/PlatformNext_universal.apk",
+            "size": "110 MB",
+            "sha256": "8505b13a1d414eeb92ba9e97ab0bd07aabf5a8f3d5b1f20bad1aded7f509c9c6"
+          }
+        ],
+        "notes": {
+          "en": "- Optimize and improve the application !!",
+          "vi": "- Tối ưu và cải thiện ứng dụng !!"
+        }
+      }
+    },
+    "macos": {
+      "stable": {
+        "updated_at": "22:03 5/7/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [
+          200
+        ],
+        "notes": {
+          "en": "- Stability fixes",
+          "vi": "- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "universal",
+            "type": "dmg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.dmg",
+            "size": "89 MB",
+            "sha256": "73dcb5768616cde0b9e55914c2d61708c5e81c5a453ab243cec1284aff5b4eb3"
+          },
+          {
+            "arch": "universal",
+            "type": "pkg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_universal.pkg",
+            "size": "90 MB",
+            "sha256": "0ede649596f5717942f5344da47f2b6a5c17955d07ea2f48f96bf4e4f7203d6c"
+          }
+        ]
+      },
+      "beta": {
+        "updated_at": "18:38 14/8/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 271,
+        "artifacts": [
+          {
+            "arch": "universal",
+            "type": "dmg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B271/PlatformNext_universal.dmg",
+            "size": "126 MB",
+            "sha256": "1b9153690b31c0b902e8ad678bb28ca19cf98946d8c17ac45cf286079de02463"
+          },
+          {
+            "arch": "universal",
+            "type": "pkg",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/download/v1.1.2-beta%2B271/PlatformNext_universal.pkg",
+            "size": "127 MB",
+            "sha256": "10f9944ad0d7ddd09f72f79936802b0461d350556de10d02445594cbe6469a0e"
+          }
+        ],
+        "notes": {
+          "en": "- Optimize and improve the application !!",
+          "vi": "- Tối ưu và cải thiện ứng dụng !!"
+        }
+      }
+    },
+    "windows": {
+      "stable": {
+        "updated_at": "22:03 5/7/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- Stability fixes",
+          "vi": "- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "x64",
+            "type": "exe",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.exe",
+            "size": "38 MB",
+            "sha256": "0e8847a1cc577e56a5dd9cdd89b36ecb6a1f6348b1f8aeb0a848012b49a1db53"
+          }
+        ]
+      },
+      "beta": {}
+    },
+    "linux": {
+      "stable": {
+        "updated_at": "22:03 5/7/2026 UTC+7",
+        "version": "1.1.2",
+        "build": 248,
+        "min_build": 200,
+        "warn_below_build": 240,
+        "blocked_builds": [],
+        "notes": {
+          "en": "- Stability fixes",
+          "vi": "- Sửa lỗi ổn định"
+        },
+        "artifacts": [
+          {
+            "arch": "x64",
+            "type": "appimage",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.AppImage",
+            "size": "65 MB",
+            "sha256": "706a84491111eeaf38a51ad1f8596332143b2509cfd7154eb5f7e5d4feefffe1"
+          },
+          {
+            "arch": "x64",
+            "type": "deb",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.deb",
+            "size": "46 MB",
+            "sha256": "c090ba24cc8fd26dcf891f6a5060245ca3feda8e50cac903516b5804ad5d6950"
+          },
+          {
+            "arch": "x64",
+            "type": "rpm",
+            "url": "https://github.com/azzphucdev/PlatformNext-Releases/releases/latest/download/PlatformNext_x86_64.rpm",
+            "size": "50 MB",
+            "sha256": "d371359857a43838eb96771dfc24e6b408599653ba1c925c673a8aac289f2819"
+          }
+        ]
+      },
+      "beta": {}
+    }
+  }
+}
