@@ -1,0 +1,65 @@
+Platform Next — Proprietary Software License
+Copyright (c) 2026 Platform Next. All Rights Reserved.
+
+1. OWNERSHIP
+   Platform Next (the "Software"), including the mobile and desktop
+   applications, their source code, design, artwork, trademarks, and all
+   associated intellectual property, is proprietary and confidential. The
+   Software is owned by Platform Next and its authors and is protected by
+   copyright and other applicable laws and treaties.
+
+2. RELEASE REPOSITORY
+   This GitHub repository is provided solely as a distribution channel for
+   official, pre-built release binaries (such as APK, DMG, EXE, and Linux
+   builds) and as a public issue tracker. The source code of the Software is
+   PRIVATE and CLOSED-SOURCE and is NOT included in, or made available through,
+   this repository.
+
+3. GRANT OF USE
+   Subject to the terms below, you are granted a personal, non-exclusive,
+   non-transferable, revocable license to download and use the official release
+   binaries distributed here for their intended purpose as an end user.
+
+4. RESTRICTIONS
+   You may NOT, in whole or in part:
+   (a) copy, redistribute, resell, sublicense, rent, lease, or otherwise
+       commercially exploit the Software or its binaries;
+   (b) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+       the source code, algorithms, or internal structure of the Software,
+       except to the limited extent such restriction is expressly prohibited by
+       applicable law;
+   (c) modify, adapt, translate, or create derivative works of the Software or
+       its binaries;
+   (d) remove, alter, or obscure any copyright, trademark, or other proprietary
+       notices;
+   (e) repackage, re-sign, or re-distribute the binaries under any other name or
+       identity.
+
+5. TRADEMARKS
+   "Platform Next", associated logos, and product names are trademarks of their
+   respective owner. No right or license is granted to use them without prior
+   written permission.
+
+6. NO WARRANTY
+   THE SOFTWARE AND ITS BINARIES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. LAWFUL USE
+   Platform Next is a general-purpose proxy client. It does not host, provide, or
+   endorse any specific proxy servers or content. You are solely responsible for
+   your use of the Software and for compliance with all laws and regulations
+   applicable in your jurisdiction.
+
+9. TERMINATION
+   Any breach of this license automatically terminates the rights granted to you
+   under Section 3, and you must cease all use and delete all copies of the
+   binaries in your possession.
+
+For licensing inquiries, contact the team via https://platformnext.dev
